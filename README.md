@@ -11,8 +11,6 @@
 <br />  
 <br />  
 此版程式上穩定，幾乎還沒遇到什麼問題  
-
 反而是網頁端有會一直卡延遲造成數據有問題導致下注不正確  
-
 只好再轉移到app上  
 https://github.com/WhiteEyeYan/AutoBet3.0
